@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "cry_baby",
+    "music_url": "cry_baby.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "cry_baby_hard",
+    "music_url": "cry_baby_hard.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "koko_de_iki_wo_shite",
+    "music_url": "koko_de_iki_wo_shite.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "tokyo_wonder",
+    "music_url": "tokyo_wonder.ogg"
+  }
+]

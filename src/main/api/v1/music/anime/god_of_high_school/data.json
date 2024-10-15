@@ -1,0 +1,37 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_7",
+    "music_url": "music_7.ogg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/goblin_slayer/",
+    "music_title": "goblin_slayer_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/goblin_slayer/",
+    "music_title": "goblin_slayer_music_2",
+    "music_url": "music_2.ogg"
+  }
+]

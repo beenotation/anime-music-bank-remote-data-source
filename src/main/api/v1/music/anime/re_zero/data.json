@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "kara_hajimeru_isekai_seikatsu",
+    "music_url": "kara_hajimeru_isekai_seikatsu.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "paradisus_paradoxum",
+    "music_url": "paradisus_paradoxum.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "stay_alive",
+    "music_url": "stay_alive.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "wishing",
+    "music_url": "wishing.ogg"
+  }
+]

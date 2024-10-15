@@ -1,0 +1,12 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/the_eminence_in_shadow/",
+    "music_title": "opening",
+    "music_url": "opening.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/the_eminence_in_shadow/",
+    "music_title": "ending",
+    "music_url": "ending.ogg"
+  }
+]

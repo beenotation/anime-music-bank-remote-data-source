@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "again",
+    "music_url": "again.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "crime_punishment",
+    "music_url": "crime_punishment.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "lapis_philosophorum",
+    "music_url": "lapis_philosophorum.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "trisha_s_lullaby",
+    "music_url": "trisha_s_lullaby.ogg"
+  }
+]

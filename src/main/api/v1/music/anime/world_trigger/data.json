@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "ashita_no_hikari",
+    "music_url": "ashita_no_hikari.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "world_trigger_1",
+    "music_url": "world_trigger_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "world_trigger_2",
+    "music_url": "world_trigger_2.ogg"
+  }
+]

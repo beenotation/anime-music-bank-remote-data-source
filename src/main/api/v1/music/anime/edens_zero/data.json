@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "bouken_no_vlog",
+    "music_url": "bouken_no_vlog.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "eden_through_the_rough",
+    "music_url": "eden_through_the_rough.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "sweet_melancholy",
+    "music_url": "sweet_melancholy.ogg"
+  }
+]

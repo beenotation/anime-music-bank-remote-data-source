@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "entaku_houkai",
+    "music_url": "entaku_houkai.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "feelings_hidden_in_the_heart",
+    "music_url": "feelings_hidden_in_the_heart.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "opening",
+    "music_url": "opening.ogg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "death_note",
+    "music_url": "death_note.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "low_of_solipsism",
+    "music_url": "low_of_solipsism.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "death_note_opening_1",
+    "music_url": "opening_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "the_world",
+    "music_url": "the_world.ogg"
+  }
+]

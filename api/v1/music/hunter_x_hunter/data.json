@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+      "base_url": "anime-music-bank-remote-data-source/api/v1/music/hunter_x_hunter/",
+      "music_title": "anime-s01-01",
+      "music_url": "anime-s01-01.ogg"
+    }
+  ]
+}

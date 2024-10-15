@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_4",
+    "music_url": "music_4.ogg"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "declaration_of_war",
+    "music_url": "declaration_of_war.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "guren_no_yumiya",
+    "music_url": "guren_no_yumiya.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "shinzou_wo_sasageyo",
+    "music_url": "shinzou_wo_sasageyo.ogg"
+  }
+]

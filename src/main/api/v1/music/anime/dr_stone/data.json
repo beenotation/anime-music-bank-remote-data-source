@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "good_morning_world",
+    "music_url": "good_morning_world.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "life",
+    "music_url": "life.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "one_small_step",
+    "music_url": "one_small_step.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "rakuen",
+    "music_url": "rakuen.ogg"
+  }
+]

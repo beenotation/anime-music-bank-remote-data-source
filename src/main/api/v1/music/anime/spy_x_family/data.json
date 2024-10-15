@@ -1,0 +1,12 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/spy_x_family/",
+    "music_title": "kigeki_comedy",
+    "music_url": "kigeki_comedy.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/spy_x_family/",
+    "music_title": "mixed_nuts",
+    "music_url": "mixed_nuts.ogg"
+  }
+]

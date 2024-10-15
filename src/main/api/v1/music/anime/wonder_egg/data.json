@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "friendship",
+    "music_url": "friendship.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "life_is_cider",
+    "music_url": "life_is_cider.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "sudachi_no_uta",
+    "music_url": "sudachi_no_uta.ogg"
+  }
+]

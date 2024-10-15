@@ -1,0 +1,27 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "homura",
+    "music_url": "homura.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "infinity_train",
+    "music_url": "infinity_train.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "kamado_tanjiro_no_uta",
+    "music_url": "kamado_tanjiro_no_uta.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "lisa_gurenge",
+    "music_url": "lisa_gurenge.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "mugen_train",
+    "music_url": "mugen_train.ogg"
+  }
+]

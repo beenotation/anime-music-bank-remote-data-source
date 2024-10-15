@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "another_colony",
+    "music_url": "another_colony.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "like_flames",
+    "music_url": "like_flames.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "meguru_mono",
+    "music_url": "meguru_mono.ogg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/mushoku_tensei/",
+    "music_title": "only",
+    "music_url": "only.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/mushoku_tensei/",
+    "music_title": "tabibito_no_uta",
+    "music_url": "tabibito_no_uta.ogg"
+  }
+]

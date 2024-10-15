@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "kaikai_kitan",
+    "music_url": "kaikai_kitan.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "lost_in_paradise",
+    "music_url": "lost_in_paradise.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "reason_for_living",
+    "music_url": "reason_for_living.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "who_ya",
+    "music_url": "who_ya.ogg"
+  }
+]

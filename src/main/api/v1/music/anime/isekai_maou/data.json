@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "anata_ga_suki",
+    "music_url": "anata_ga_suki.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "decide",
+    "music_url": "decide.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "everybody",
+    "music_url": "everybody.ogg"
+  }
+]

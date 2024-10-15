@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "boku_no_yubisaki",
+    "music_url": "boku_no_yubisaki.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "soul_salvation",
+    "music_url": "soul_salvation.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "to_be_shaman_king",
+    "music_url": "to_be_shaman_king.ogg"
+  }
+]

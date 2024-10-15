@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "please_dont_go",
+    "music_url": "please_dont_go.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "iro_kousui",
+    "music_url": "iro_kousui.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "proposal",
+    "music_url": "proposal.ogg"
+  }
+]

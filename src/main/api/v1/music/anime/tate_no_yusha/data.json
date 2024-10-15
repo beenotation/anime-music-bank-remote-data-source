@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "atashi_ga_tonari_ni_iru_uchi_ni",
+    "music_url": "atashi_ga_tonari_ni_iru_uchi_ni.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "faith",
+    "music_url": "faith.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "rise",
+    "music_url": "rise.ogg"
+  }
+]
